@@ -20,7 +20,6 @@ class Solution {
                 high--;
             }
         }
-
         System.out.print(nums);
     }
 }
